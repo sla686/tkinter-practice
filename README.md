@@ -18,7 +18,7 @@ Currently, the repository consists of two projects:
 1. **Calculator**
 2. **Feet to Meters Converter**
 
-And we also have the **main.py** script as en entry point. The main.py script provides a basic terminal-based menu where we can launch the chosen application.
+And we also have the **main.py** script as en entry point. The **main.py** script provides a basic terminal-based menu where we can launch the chosen application.
 The installation doesn't require any additional steps to be done. Just fork and pull the repository, and then launch the **main.py** script to start the project right away! Please keep in mind that the **.idea** directory is being used by [PyCharm IDE](https://www.jetbrains.com/pycharm/) and does not required for the project to be able to work!
 
 ## Author
